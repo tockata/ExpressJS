@@ -29,6 +29,6 @@ instanodeDb.saveImage({
 // instanodeDb.findByTag('cat')
 
 // Problem 5:
-// let minDate = (new Date()).setDate(15)
-// let maxDate = (new Date()).setDate(17)
-// instanodeDb.filter({after: minDate, before: maxDate, results: 24})
+/** let minDate = (new Date()).setDate(15)
+let maxDate = (new Date()).setDate(25)
+instanodeDb.filter({after: minDate, before: maxDate, results: 24}) */
